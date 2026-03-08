@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-![Dashboard](images/telco_dashboard.png)
+![Dashboard](dashboard_screenshots/telco_dashboard.png)
 
 ## 📊 Project Overview
 
@@ -46,7 +46,7 @@ Telco faces **26.54% churn rate** (1,869 customers, $1.45M lost revenue annually
 
 ## 🤖 Machine Learning Results
 
-![ML Results](images/ml_results.png)
+![ML Results](dashboard_screenshots/ml_results.png)
 
 **Model:** Random Forest Classifier
 
@@ -64,7 +64,7 @@ Telco faces **26.54% churn rate** (1,869 customers, $1.45M lost revenue annually
 
 **High-Risk Customers:**
 
-![High-Risk Customers](images/high_risk_customers_top10.png)
+![High-Risk Customers](outputs/high_risk_customers_top10.png)
 
 - **287 customers** identified with >70% churn risk
 - **$280,000** annual revenue at risk
