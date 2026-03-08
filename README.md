@@ -103,13 +103,13 @@ Telco faces **26.54% churn rate** (1,869 customers, $1.45M lost revenue annually
 
 ---
 
-## 📁 Files
+### 📁 Project Files
 
-- `Telco_Churn_Analysis.xlsx` - Complete Excel analysis with dashboard
-- `Churn_Prediction_Model.ipynb` - Python ML model
-- `data/` - Original dataset
-- `outputs/high_risk_customers.xlsx` - 287 predicted churners
-- `images/` - Visualizations
+- `excel_analysis/Telco_Churn_Analysis.xlsx` - Excel churn dashboard and analysis  
+- `python_model/Churn_Prediction_Model.ipynb` - Machine learning churn prediction model  
+- `data/` - Original dataset  
+- `outputs/` - Model outputs and prediction results  
+- `dashboard_screenshots/` - Excel dashboard and chart screenshots  
 
 ---
 
